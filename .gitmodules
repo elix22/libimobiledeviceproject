@@ -1,0 +1,12 @@
+[submodule "libplist"]
+	path = libplist
+	url = https://github.com/elix22/libplist.git
+[submodule "libimobiledevice-glue"]
+	path = libimobiledevice-glue
+	url = https://github.com/elix22/libimobiledevice-glue.git
+[submodule "libusbmuxd"]
+	path = libusbmuxd
+	url = https://github.com/elix22/libusbmuxd.git
+[submodule "libimobiledevice"]
+	path = libimobiledevice
+	url = https://github.com/elix22/libimobiledevice.git
